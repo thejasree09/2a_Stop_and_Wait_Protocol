@@ -38,7 +38,7 @@ while True:
 ```
 ## OUTPUT
 ```
-![image](https://github.com/user-attachments/assets/8428ee0b-4a4c-446f-b29f-351acb3d362e)
+![Screenshot 2025-04-14 172959](https://github.com/user-attachments/assets/ba620de4-c5f8-4898-93cb-d51c14b721c4)
 ```
 
 ## RESULT
